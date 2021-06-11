@@ -1,0 +1,32 @@
+{
+  "name": "chijiexchaneg-blog",
+  "version": "1.0.0",
+  "description": "Blog for chijiexchange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chijiexchange-blog"
+  },
+  "keywords": [
+    "blog",
+    "news",
+    "update",
+    "informations"
+  ],
+  "author": "Oluwafemi Oderinwale",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "express-validator": "^6.11.1",
+    "glob": "^7.1.7",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2",
+    "slugify": "^1.5.3"
+  }
+}
